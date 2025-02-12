@@ -3,6 +3,6 @@
 bash
 Sao chép
 Chỉnh sửa
-sudo add-apt-repository ppa:deity/apt
-sudo apt update
-sudo apt upgrade -y
+- sudo add-apt-repository ppa:deity/apt
+- sudo apt update
+- sudo apt upgrade -y
